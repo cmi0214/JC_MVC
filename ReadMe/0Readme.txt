@@ -1,0 +1,14 @@
+Data_Context.cs
+    -Product.cs
+
+Models
+    -DataTableViewModel.cs
+
+Customer_Index http://localhost/Customer
+	
+
+Product_Index   localhost:portno/product
+	-Create localhost:portno/product/create
+
+
+Web.config
